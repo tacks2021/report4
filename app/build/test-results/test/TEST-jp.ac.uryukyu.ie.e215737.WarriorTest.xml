@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jp.ac.uryukyu.ie.e215737.WarriorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-05T06:56:48" hostname="MacBook-Air-2021.local" time="0.032">
+  <properties/>
+  <testcase name="attackTest()" classname="jp.ac.uryukyu.ie.e215737.WarriorTest" time="0.032"/>
+  <system-out><![CDATA[デモ戦士のHPは100。攻撃力は100です。
+でかいスライムもどきのHPは450。攻撃力は100です。
+デモ戦士の攻撃！ウェポンスキルを発動！でかいスライムもどきに150のダメージを与えた！！
+でかいスライムもどきの残りHP300デモ戦士の攻撃！ウェポンスキルを発動！でかいスライムもどきに150のダメージを与えた！！
+でかいスライムもどきの残りHP150デモ戦士の攻撃！ウェポンスキルを発動！でかいスライムもどきに150のダメージを与えた！！
+モンスターでかいスライムもどきは倒れた。
+でかいスライムもどきの残りHP0]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
